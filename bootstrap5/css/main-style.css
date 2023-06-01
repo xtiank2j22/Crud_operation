@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+.body{
+    background-color: white;
+}
+.text-white{
+    color:white !important;
+}
+/*---css for navbar---*/
+.bg-navyblue{
+    background-color: rgb(3, 3, 64);
+}
+.nav-link{
+    font-family:  sans-serif;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
+    color: white;
+}
+.nav-link:hover{
+    background-color: #02FEFF;
+    color:#001141;
+    border-radius: 10px;
+}
+/*-----css for form---*/
+.form-c{
+    width: 50vm;
+    min-width: 300px;
+}
