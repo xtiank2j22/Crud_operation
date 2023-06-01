@@ -39,7 +39,7 @@
             <div class="row">
                 <div class="col">
                     <label  class="form-label">First Name</label>
-                    <input type="text" class="form-control" name="first_name" placeholder="Nwanagba">
+                    <input type="text" class="form-control" name="first_name" placeholder="Nwanagba" require>
                 </div>
                 <div class="col">
                     <label  class="form-label">Last Name</label>

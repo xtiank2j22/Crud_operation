@@ -16,8 +16,8 @@
 <header>
         <nav class="navbar navbar-expand-sm bg-navyblue">
             <div class="container">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
-                    <span class="navbar-toggler-icon"></span>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar" style="background-color: #0078D3;">
+                    <span class="navbar-toggler-icon text-white" style="color:aliceblue;"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="collapsibleNavbar">
                     <ul class="navbar-nav pr-5">
