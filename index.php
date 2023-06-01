@@ -1,6 +1,6 @@
 <?php include_once "includes/nav.php" ?>
 <body>
-    <div class="container">
+    <div class="container table-responsive">
         <!------display of alert message that show each message has been submitted---->
     <?php 
         if(isset ($_GET['msg'])){
