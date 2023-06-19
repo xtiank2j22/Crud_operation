@@ -54,7 +54,7 @@
                     <input type="radio" class="form-check-input" name="gender" id="male" value="male">
                     <label for="male" class="form-input-label">Male</label>
                     <input type="radio" class="form-check-input" name="gender" id="female" value="female">
-                    <label for="male" class="form-input-label">Female</label>
+                    <label for="male" class="form  -input-label">Female</label>
                 </div>
                 <div class="button">
                     <button class="btn btn-success" name="submit">Save</button>
